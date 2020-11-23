@@ -5,7 +5,7 @@ Quick Start
 
 ### Clone this repository
 
-    git clone https://github.com/naufalpry/apitestrobotframework.git
+    git clone https://github.com/naufalpry/uitestrobot.git
 
 ### Pull the image.
 
@@ -15,11 +15,11 @@ Quick Start
 
 ##### Method 1: use docker-compose
 
-    cd apitestrobotframework  && docker-compose up
+    cd uitestrobot  && docker-compose up
     
 ##### Method 2: use bash
 
-    cd apitestrobotframework  && ./run_tests.sh
+    cd uitestrobot  && ./run_tests.sh
     
 
 NOTE
